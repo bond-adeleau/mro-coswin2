@@ -1,4 +1,4 @@
-const CACHE = "assistant-coswin-v4";
+const CACHE = "assistant-coswin-v5";
 const APP_FILES = [
   "/Assistant%20creation.html",
   "/manifest.json",

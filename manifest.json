@@ -5,7 +5,7 @@
   "start_url": "/Assistant%20creation.html",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#0d1714",
-  "theme_color": "#0d1714",
+  "background_color": "#f5f7f6",
+  "theme_color": "#0f7b45",
   "description": "Assistant de creation et de verification des articles COSWIN"
 }
