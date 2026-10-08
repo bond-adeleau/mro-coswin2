@@ -1,0 +1,11 @@
+{
+  "name": "Assistant de creation articles COSWIN",
+  "short_name": "Assistant COSWIN",
+  "lang": "fr-FR",
+  "start_url": "/Assistant%20creation.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#11623d",
+  "description": "Assistant de creation et de verification des articles COSWIN"
+}
